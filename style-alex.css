@@ -16,3 +16,13 @@
     border-radius: 35px;
     font-weight: bold;
 }
+
+.btn-primary-tyr {
+    background-color: white;
+    color: purple;
+    padding: 15px;
+    border-color: purple;
+    border width: 2px;
+    border-radius: 5px;
+    font-weight: bold;
+}
