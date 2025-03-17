@@ -18,6 +18,17 @@
 
 }
 
+.btn-danger {
+    background-color: white;
+    color: red;
+    padding: 15px;
+    border-color: red;
+    border-width: 2px;
+    border-radius: 5px;
+    font-weight: bold;
+
+}
+
 .title-red {
     color: red;
 }
